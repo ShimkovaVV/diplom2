@@ -4,9 +4,4 @@ $('.carusel').bxSlider({
 
 
 });
-$('.carusel_client').bxSlider({
-	mode: 'horizontal',
-	controls: false,
 
-
-});
